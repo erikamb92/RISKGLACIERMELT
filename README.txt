@@ -2,7 +2,7 @@ Data Descriptor
 
 Title
 
-Emerging water scarcity risks in Andean glacier-fed river basins
+Emerging water scarcity risks in Peruvian glacier-fed river basins
 
 Authors
 
