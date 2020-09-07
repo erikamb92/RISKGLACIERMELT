@@ -33,7 +33,7 @@ Guidelines when opening datasets:
 After unzipping, the maps can be opened using any GIS-based software.
 
 
-At each individual raster pixel and vector point along a river the value of either ee is listed in 
+At each individual raster pixel and vector point along a river the value of either EXPOSURE, VULNERABILITY, HAZARD or RISK is listed in 
 the legend under the "Pixel value". As the maps are at a very high resolution, zooming in is required to delineate details.
 
 The file naming convention in use is the following:
